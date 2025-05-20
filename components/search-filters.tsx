@@ -38,16 +38,7 @@ const skillOptions = [
 
 // Sample locations
 const locations = [
-  "Manila, Philippines",
-  "Cebu, Philippines",
-  "Bangkok, Thailand",
-  "Jakarta, Indonesia",
-  "Kuala Lumpur, Malaysia",
-  "Singapore",
-  "Seoul, South Korea",
-  "Tokyo, Japan",
-  "Hong Kong",
-  "Shanghai, China",
+  "Ethiopia"
 ]
 
 export function SearchFilters() {

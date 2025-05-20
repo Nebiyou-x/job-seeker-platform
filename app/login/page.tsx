@@ -208,10 +208,7 @@ export default function LoginPage() {
                     </svg>
                     Facebook
                   </Button>
-                  <Button variant="outline" className="w-full">
-                    <Github className="mr-2 h-4 w-4" />
-                    GitHub
-                  </Button>
+                  
                 </div>
               </CardContent>
               <CardFooter className="flex flex-col items-center gap-2">
