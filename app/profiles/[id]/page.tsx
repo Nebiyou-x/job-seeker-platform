@@ -19,8 +19,8 @@ const jobSeeker = {
   name: "Alemnesh Bekele",
   title: "Domestic Worker",
   location: "Addis Ababa, Ethiopia",
-  image: "/placeholder.svg?height=400&width=400",
-  coverImage: "/placeholder.svg?height=400&width=1200",
+  image: "https://www.unfpa.org/sites/default/files/home-banner-news/Merhawit_homepage.jpg",
+  coverImage: "https://www.unfpa.org/sites/default/files/home-banner-news/Merhawit_homepage.jpg",
   bio: "Experienced domestic helper with 3+ years of experience in housekeeping, child care, and cooking. Hardworking, honest, and able to follow instructions well. Seeking employment in the Middle East.",
   skills: [
     { name: "Housekeeping", level: 90 },
