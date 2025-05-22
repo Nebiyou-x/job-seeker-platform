@@ -146,11 +146,7 @@ export default function ProfilesPage() {
             <Button onClick={() => setIsAdvancedOpen(!isAdvancedOpen)}>Advanced Search</Button>
           </div>
         </div>
-
-        {/*<div className="mb-8">
-          <SearchFilters onFilterChange={handleFilterChange} />
-        </div>*/}
-
+       <SearchFilters />
         <div className="mb-4 flex items-center justify-between">
           <p className="text-sm text-muted-foreground">
             Showing {filteredProfiles.length === 0 ? 0 : indexOfFirstProfile + 1}-
